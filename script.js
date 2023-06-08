@@ -8,18 +8,6 @@ document.querySelector(".menuBar").onclick=()=>{
     // console.log(header.classList.toggle("active"));
 }
 
-// var swiper = new Swiper(".course-box-container", {
-//   cssMode: true,
-//   navigation: {
-//     nextEl: ".swiper-button-next",
-//     prevEl: ".swiper-button-prev",
-//   },
-//   pagination: {
-//     el: ".swiper-pagination",
-//   },
-//   mousewheel: true,
-//   keyboard: true,
-// });
  var swiper = new Swiper(".course-box-container", {
   cssMode: true,
   slidesPerView:1,

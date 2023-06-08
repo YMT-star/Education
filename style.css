@@ -151,9 +151,7 @@ nav .menuBar:hover{
 #course span{
     color: var(--fontColor);
 }
-#course .course-box-container{
 
-}
 #course .course-box-container .course-box {
     display: flex;
     gap: .5rem;
@@ -314,7 +312,7 @@ nav .menuBar:hover{
     color: var(--fontColor);
 }
 .contact-container .contact-box input{
-    padding: 5px;
+    padding: 5px 10px;
     border-radius: 10px;
 }
 .contact-box .btn{
